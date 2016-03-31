@@ -1,0 +1,28 @@
+(w0, wa) = (-1.00000,  0.00000)
+ Warning: Rombint failed to converge; 
+ integral, error, tol:   13644.3512668232      -3.510084021218773E-007
+  1.000000000000000E-007
+Reion redshift       =  11.407
+Om_b h^2             =  0.022000
+Om_c h^2             =  0.119023
+Om_nu h^2            =  0.000640
+Om_Lambda            =  0.706847
+Om_K                 = -0.000000
+Om_m (1-Om_K-Om_L)   =  0.293153
+100_theta_(CosmoMC)  =  1.042363
+H0                   = 69.515381
+N_eff (total)        =  3.046000
+ 1 nu, g= 1.0153 m_nu*c^2/k_B/T_nu0=    353.71 (m_nu=  0.060 eV)
+Reion opt depth      =  0.0900
+Age of universe/GYr  =  13.313
+zstar                =  1091.39
+r_s(zstar)/Mpc       =  139.34
+100*theta            =  1.041887
+zdrag                =  1059.89
+r_s(zdrag)/Mpc       =  142.04
+k_D(zstar) Mpc       =  0.1445
+100*theta_D          =  0.162602
+z_EQ (if v_nu=1)     =  3370.01
+100*theta_EQ         =  0.820073
+tau_recomb/Mpc       =  270.46  tau_now/Mpc =  13644.4
+tau_recomb/Mpc       =  270.30  tau_now/Mpc =  13644.4
